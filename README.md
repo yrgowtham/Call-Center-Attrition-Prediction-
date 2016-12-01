@@ -1,1 +1,3 @@
 # Call-Center-Attrition-Prediction-
+•	Engineered multiple predictive models (including logistic regression, neural nets,glmnet,SVM, ensemble models like boosting, bagging ) for predicting agent attrition/churn in a Call center using real time data (around 200K rows, multiple data sets), in collaboration with Rank Miner audio analytics and a Tampa based Call center.
+•	Performed variable exploration, data scaling, normalization, dimensionality reduction (PCA), cleaning, and imputation to analyze the data and provided suggestions to improve performance of the model (using Tableau, R, Rapid Miner, and Excel).
